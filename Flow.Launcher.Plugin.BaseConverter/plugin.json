@@ -1,0 +1,12 @@
+{
+    "ID": "92cc0129-fd7b-49e8-a52c-def86065cc85",
+    "ActionKeyword": "*",
+    "Name": "BaseConverter",
+    "Description": "Base N number Converter",
+    "Author": "AlexYzhov",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/AlexYzhov/Flow.Launcher.Plugin.BaseConverter",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.BaseConverter.dll"
+}
